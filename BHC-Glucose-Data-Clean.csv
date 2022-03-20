@@ -1,4 +1,4 @@
-Device,Device Timestamp,Record Type,Glucose mmol/L,Date,Time
+Device,Device_Timestamp,Type,Glucose_mmol/L,Date,Time
 FreeStyle LibreLink,20-08-2020 11:32,0,2.7,20-08-2020,11:32
 FreeStyle LibreLink,20-08-2020 11:47,0,3,20-08-2020,11:47
 FreeStyle LibreLink,20-08-2020 12:02,0,3.1,20-08-2020,12:02
